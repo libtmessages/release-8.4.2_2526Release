@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "org.telegram.messenger",
+  "variantName": "afatRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 25229,
+      "versionName": "8.4.1",
+      "outputFile": "app.apk"
+    }
+  ]
+}
